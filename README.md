@@ -1,4 +1,6 @@
 # CRearrangeableCollectionView
 
 collection 拖拽排序
-仿KDRearrangeableCollectionViewFlowLayout-master
+
+仿swift KDRearrangeableCollectionViewFlowLayout-master
+Object C 形式
