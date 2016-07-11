@@ -1,0 +1,4 @@
+# CRearrangeableCollectionView
+
+collection 拖拽排序
+仿KDRearrangeableCollectionViewFlowLayout-master
